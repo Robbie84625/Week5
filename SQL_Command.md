@@ -26,4 +26,15 @@
   <li><h3> 取得 member 資料表中，所有會員 follower_count 欄位的平均數。</h3></li>
   <img src="Week5/img/4_3.png"/>
 </ol>
-
+<hr/>
+<h2> 要求五</h2>
+<ol>
+  <h3> 補充：將CSV檔案匯入到MySQL的資料庫當中</h3>
+  <img src="Week5/img/5_0.png"/>
+  <li><h3> 使⽤ SELECT 搭配 JOIN 語法，取得所有留⾔，結果須包含留⾔者的姓名。</h3></li>
+  <img src="Week5/img/5_1.png"/>
+  <li><h3> 使⽤ SELECT 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有留⾔，資料中須包含留⾔者的姓名。</h3></li>
+  <img src="Week5/img/5_2.png"/>
+  <li><h3> 使⽤ SELECT、SQL Aggregate Functions 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有留⾔平均按讚數。</h3></li>
+  <img src="Week5/img/5_3.png"/>
+</ol>
